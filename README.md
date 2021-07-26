@@ -2,4 +2,4 @@
 
 ### 
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+Sometimes it's useful to have multiple examples of questions both similar and dissimilar. Most of the questions and solutions are asked in quantitative research/trading firms and are also utlized for machine learning positions to check pragmatic programming know-how. 
